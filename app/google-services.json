@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "666256470474",
+    "project_id": "mediaplayer-188518"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666256470474:android:b45d9f44012bdab1",
+        "android_client_info": {
+          "package_name": "com.kittu.mediaplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666256470474-oqrsqtcijecpevhtkgv97v5tvi797eam.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "666256470474-8841e1oe8qvmjo8dajv2j9bu67d1rms1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kittu.mediaplayer",
+            "certificate_hash": "036a9e6498f408e53b12e804595272128f306244"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9vja9r3tuHkut-lebA2z_nTpk3tesbU0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
